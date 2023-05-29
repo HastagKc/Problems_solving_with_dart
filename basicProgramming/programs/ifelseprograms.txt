@@ -1,20 +1,42 @@
-Write a program to check if a number is positive, negative, or zero.
-Write a program to check if a number is even or odd.
-Write a program to find the maximum between two numbers.
-Write a program to find the minimum between three numbers.
-Write a program to check if a year is a leap year or not.
+
+
+
+//* done :- Write a program to check if a number is positive, negative, or zero.
+
+//* done :- Write a program to check if a number is even or odd.
+
+//*  done :- Write a program to find the maximum between two numbers.
+
+//* Write a program to find the minimum between three numbers.
+
+//* Write a program to check if a year is a leap year or not.
+
 Write a program to check if a character is a vowel or consonant.
+
 Write a program to check if a given number is prime or not.
+
 Write a program to calculate the grade based on a student's marks.
+
 Write a program to determine the largest among three numbers using nested if-else statements.
+
 Write a program to check if a string is a palindrome or not.
+
 Write a program to check if a given number is Armstrong or not.
+
 Write a program to check if a triangle is equilateral, isosceles, or scalene.
+
 Write a program to check if a number is a perfect square.
+
 Write a program to find the roots of a quadratic equation.
+
 Write a program to check if a string is a valid email address.
+
 Write a program to check if a number is divisible by both 5 and 11.
+
 Write a program to convert a temperature from Celsius to Fahrenheit or vice versa.
+
 Write a program to check if a year is a century or not.
+
 Write a program to check if a given string is a palindrome or an anagram.
+
 Write a program to determine the type of a triangle (right-angled, acute, or obtuse) based on its angles.
