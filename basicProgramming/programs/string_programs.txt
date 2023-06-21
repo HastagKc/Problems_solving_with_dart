@@ -1,0 +1,53 @@
+Check Palindrome: Determine if a given string is a palindrome (reads the same forwards and backwards).4
+
+Reverse String: Reverse the characters in a string.
+
+Anagram Check: Determine if two strings are anagrams (contain the same characters but in a different order).
+
+
+Count Occurrences: Count the number of occurrences of a specific substring in a larger string.
+String Concatenation: Concatenate two or more strings together.
+
+
+String Compression: Compress a string by replacing consecutive repeated characters with a count of the repetition.
+
+
+Longest Common Prefix: Find the longest common prefix among a set of strings.
+
+
+String Rotation Check: Determine if one string is a rotation of another string (e.g., "abc" and "bca").
+
+Substring Search: Check if a substring exists in a larger string and find its index.
+
+
+String to Integer Conversion: Convert a string representation of an integer to its numerical value.
+
+
+Integer to String Conversion: Convert an integer to its string representation.
+
+Remove Duplicates: Remove duplicate characters from a string.
+
+
+Capitalize Words: Capitalize the first letter of each word in a sentence or string.
+
+
+Split Words: Split a string into individual words based on a delimiter (e.g., space).
+
+
+String Matching: Check if a pattern or substring matches a given string.
+
+
+Sentence Reversal: Reverse the words in a sentence.
+
+
+Palindromic Substrings: Find all palindromic substrings within a given string.
+
+
+Valid Parentheses: Check if a string of parentheses is valid (i.e., all opening and closing parentheses are properly balanced).
+
+
+Anagram Palindrome: Check if a string can be rearranged to form a palindrome.
+
+
+
+Count Words: Count the number of words in a sentence or string.
